@@ -1,9 +1,9 @@
-<h1>Projeto de Acessibilidade - Controle de Mouse e Atalhos</h1>
+<h1>Sistema de Interpretação de Gestos - Controle de Mouse e Atalhos</h1>
 
 ## Descrição do projeto 
 
 <p align="justify">
-  Este projeto visa facilitar o acesso ao computador para pessoas com deficiências motoras, permitindo o controle do mouse por meio de gestos da mão e a execução de comandos por meio de gestos específicos.
+  Este projeto visa facilitar o acesso ao computador permitindo o controle do mouse por meio de gestos da mão e a execução de comandos por meio de gestos específicos. Esse projeto foi construido utilizando a linguagens Python, suas bibliotecas e recursos de Machine Learning.
 </p>
 
 ## Funcionalidades
