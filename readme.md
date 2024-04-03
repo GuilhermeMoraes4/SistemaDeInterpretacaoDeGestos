@@ -3,7 +3,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Este projeto visa facilitar o acesso ao computador permitindo o controle do mouse por meio de gestos da mão e a execução de comandos por meio de gestos específicos. Esse projeto foi construido utilizando a linguagens Python, suas bibliotecas e recursos de Machine Learning.
+  Este projeto visa facilitar o acesso ao computador permitindo o controle do mouse por meio de gestos da mão e a execução de comandos por meio de gestos específicos. Esse projeto foi construido utilizando a linguagem Python, suas bibliotecas e recursos de Machine Learning.
 </p>
 
 ## Funcionalidades
